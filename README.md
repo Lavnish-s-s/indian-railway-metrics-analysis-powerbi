@@ -43,6 +43,6 @@ This project analyzes the **performance of Indian Railways** using **Power BI**,
 ![Performance](https://github.com/Lavnish-s-s/indian-railway-metrics-analysis-powerbi/blob/main/Images/Benchmark.jpg)
 
 ## 📢 Connect with Me
-**GitHub:** (https://github.com/SSSurkar))  
+**GitHub:** (https://github.com/Lavnish-s-s))  
 **LinkedIn:** https://www.linkedin.com/in/srujan-surkar-198509245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDq9DfwgLRzyDpmXe2udL%2BQ%3D%3D
 
