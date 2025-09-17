@@ -44,5 +44,4 @@ This project analyzes the **performance of Indian Railways** using **Power BI**,
 
 ## 📢 Connect with Me
 **GitHub:** (https://github.com/Lavnish-s-s))  
-**LinkedIn:** https://www.linkedin.com/in/srujan-surkar-198509245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDq9DfwgLRzyDpmXe2udL%2BQ%3D%3D
-
+**LinkedIn:** https://www.linkedin.com/in/lavnish-suvarna-8389081a7
